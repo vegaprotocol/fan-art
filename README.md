@@ -14,3 +14,6 @@ To assure ease of navigation and coherence of the repo please add a seprate fold
 
 ## Licensing
 If not stated otherwise by the contributors themselves with a seprate LICENSE.md file contined in the folder with their works all the works in this repository are licensed under this [license](LICENSE.md).
+
+
+Testing the PR mechanism
