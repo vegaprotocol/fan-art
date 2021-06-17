@@ -2,7 +2,7 @@
 A dedicated stage allowing anyone to contribute their Vega-inspired works so they don't get lost in the fast-moving threads on project's [community pages](https://linktr.ee/vegaprotocol) and can be admired by everyone in a single place.
 
 ## Contributing
-Anyone wishing to add their works to this repository can [create a Pull Request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) which will get reviewed by the community members and merged into the `master` branch. 
+Anyone wishing to add their works to this repository can [fork it](https://docs.github.com/en/github/getting-started-with-github/quickstart/fork-a-repo) and [create a Pull Request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) which will get reviewed by the community members and merged into the `master` branch. 
 
 We understand that not everyone is familar with GitHub and we wouldn't like that to become an obstacle to adding your works here, so if that's the case please reach out on [Discord](https://discord.com/invite/ZNEMCYd) and other community memebers will gladly give you a hand.
 
