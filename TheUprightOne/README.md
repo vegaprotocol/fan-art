@@ -1,4 +1,4 @@
-Hi. Here is a peek into my little head. I had been following Vega since about February, when the market was at an all time highh.
+Hi. Here is a peek into my little head. I had been following Vega since about February, when the market was at an all time high.
 
 I follow a couple of the initial seed investors, and they had just announced on Linkedin, that they were part of a funding round for Vega. When I clicked through I was in awe at the simplicity and originality of the branding (I am a designer by trade). I struggled to get it off my mind and in fact, started to design my much awaited portfolio site based on the pixel-sans serif typeface mix VEGA use.
 
